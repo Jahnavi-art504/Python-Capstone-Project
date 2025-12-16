@@ -1,95 +1,46 @@
 <img width="857" height="185" alt="image" src="https://github.com/user-attachments/assets/5f032520-1b15-497f-9d5c-10f2e0de8e60" />
 
 ## 📑 Table of Contents
-Project Overview
-Dataset Descriptions
-Environment Setup
-File Structure
-Task Breakdown
-Methodology & Implementation
-Results & Deliverables
-How to Run
-Technologies Used
-Contributing
-License
-Author
-Screenshots
+
+<img width="269" height="370" alt="image" src="https://github.com/user-attachments/assets/289c6eb6-7d6c-4d53-8e07-2dd27256d706" />
 
 ## 1 Project Overview
-“Data is the new oil — but only when it’s refined.”
-This capstone refines three raw datasets into business-ready insights.
-You’ll see ten incremental tasks that illustrate core skills every data-analyst needs:
-ingestion, cleaning, merging, conditional logic, aggregation, and filtered reporting.
+
+<img width="629" height="114" alt="image" src="https://github.com/user-attachments/assets/d996c0f5-5504-4a75-90e4-2d635afa8008" />
 
 ## 2 Dataset Descriptions
-📄 DataFrame	Columns (key)	Description
-Employee	ID · Name · Gender · City · Age	Personal & location data
-Seniority	ID · Designation Level (1–4)	Role hierarchy
-Project	ID · Project · Project Cost · Status	Budget & completion status
+
+<img width="629" height="173" alt="image" src="https://github.com/user-attachments/assets/f4e619da-8001-45ce-975c-2516f9e2597f" />
 
 ## 3 Environment Setup
-Python ≥3.7 recommended pip install pandas numpy notebook
 
-text
+<img width="471" height="80" alt="image" src="https://github.com/user-attachments/assets/824e8dc3-e17b-4973-ae32-3ef62333f637" />
 
 ## 4 File Structure
-Python-Capstone-Project/ │ ├─ Capstone_Project_Python.ipynb # notebook with all tasks ├─ data/ │ ├─ employee.csv │ ├─ seniority.csv │ ├─ project.csv │ ├─ final_temp.csv │ ├─ total_project_cost.csv │ └─ final_dataframe.csv └─ screenshots/ ├─ task1.png ├─ task2.png └─ … one per task
 
-text
+<img width="765" height="117" alt="image" src="https://github.com/user-attachments/assets/dae0c97c-b8fe-47ed-901d-034a4e722f85" />
 
 ## 5 Task Breakdown
-#	Task	Key Action
-1	Create CSVs	Build & persist Employee, Seniority, Project tables
-2	Impute Costs	Replace missing Project Cost with a running average
-3	Split Names	Separate First / Last & drop the composite column
-4	Merge	Combine all tables into Final
-5	Bonus	+5 % cost for Finished projects
-6	Demotion	↓ designation for any Failed project; drop ineligible leads
-7	Titles	Add “Mr.” / “Mrs.” prefix, remove Gender
-8	Promotion	↑ designation for age > 29 (min-clipped at 1)
-9	Aggregation	Summarise total project cost per employee
-10	City Filter	Display all rows where City contains “o”
+
+<img width="621" height="427" alt="image" src="https://github.com/user-attachments/assets/2a7aa15d-5eae-444f-9bcd-b514cbefb2fe" />
 
 ## 6 Methodology & Implementation
-Click to expand
+
+<img width="543" height="194" alt="image" src="https://github.com/user-attachments/assets/56ece8dc-ea03-4c3f-879d-ff6b8f163652" />
 
 ## 7 Results & Deliverables
-📁 File	Purpose
-employee.csv	Cleaned employee data
-seniority.csv	Original designation levels
-project.csv	Imputed project table
-final_temp.csv	Merged output (post-Task 8)
-total_project_cost.csv	Per-employee cost summary
-final_dataframe.csv	Filtered dataset for Task 10
-Capstone_Project_Python.ipynb	Executable notebook
+
+<img width="505" height="314" alt="image" src="https://github.com/user-attachments/assets/8491bbda-c059-4b1f-9cde-d4a642023623" />
 
 ## 8 How to Run
-Clone the repository.
-Ensure the data folder contains all CSVs.
-Launch Jupyter Notebook and open Capstone_Project_Python.ipynb.
-Run all cells (Tasks 1 → 10).
-Inspect the new / updated CSVs in data/.
+
+<img width="522" height="148" alt="image" src="https://github.com/user-attachments/assets/cd53536d-c2ed-4b83-b40f-b95ee9696f99" />
 
 ## 9 Technologies Used
-🐍 Python 3.x
-🐼 pandas
-📊 NumPy
-📓 Jupyter Notebook
 
-## 10 Contributing
-Ideas & pull requests are welcome! Possible enhancements:
+<img width="192" height="123" alt="image" src="https://github.com/user-attachments/assets/795a1eb9-3ca0-49d3-b83d-b78d0ce2ca1a" />
 
-Parameterise the bonus percentage.
-Visualise cost distributions.
-Convert the notebook into a CLI script.
-
-## 11 License
-MIT – free to use, modify, and distribute.
-
-## 12 Author
-Deepak Lokhande — Data-Analytics Enthusiast | Business Intelligence | Remote-Work Advocate
-
-## 13 Screenshots
+## 10 Screenshots
 ### Task 1 – Create CSVs
 ### Task 2 – Impute Costs
 ### Task 3 – Split Names
