@@ -1,6 +1,4 @@
-# 💻 Python Fundamentals – Capstone Project 📊
-### A ten-task, end-to-end data-engineering workflow built with pandas & NumPy.
-From raw CSVs → cleansing → transformation → aggregation → actionable output.
+<img width="857" height="185" alt="image" src="https://github.com/user-attachments/assets/5f032520-1b15-497f-9d5c-10f2e0de8e60" />
 
 ## 📑 Table of Contents
 Project Overview
