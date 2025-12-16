@@ -2,39 +2,47 @@
 
 ## 📑 Table of Contents
 
-<img width="269" height="370" alt="image" src="https://github.com/user-attachments/assets/289c6eb6-7d6c-4d53-8e07-2dd27256d706" />
+<img width="831" height="410" alt="image" src="https://github.com/user-attachments/assets/015239f7-7370-4972-89d0-2cd13f01bc88" />
+
 
 ## 1 Project Overview
 
-<img width="629" height="114" alt="image" src="https://github.com/user-attachments/assets/d996c0f5-5504-4a75-90e4-2d635afa8008" />
+<img width="836" height="142" alt="image" src="https://github.com/user-attachments/assets/a0f6a3ca-7b63-4ff0-8e16-a6e53997a649" />
+
 
 ## 2 Dataset Descriptions
 
-<img width="629" height="173" alt="image" src="https://github.com/user-attachments/assets/f4e619da-8001-45ce-975c-2516f9e2597f" />
+<img width="838" height="191" alt="image" src="https://github.com/user-attachments/assets/82fd4b06-f2c0-4709-86f8-bd33d48e8c9f" />
+
 
 ## 3 Environment Setup
 
-<img width="471" height="80" alt="image" src="https://github.com/user-attachments/assets/824e8dc3-e17b-4973-ae32-3ef62333f637" />
+<img width="840" height="102" alt="image" src="https://github.com/user-attachments/assets/2e920768-ac24-45f4-aca9-d2d3bfc1cf62" />
+
 
 ## 4 File Structure
 
-<img width="765" height="117" alt="image" src="https://github.com/user-attachments/assets/dae0c97c-b8fe-47ed-901d-034a4e722f85" />
+<img width="843" height="146" alt="image" src="https://github.com/user-attachments/assets/793cc533-3c54-444f-adf1-98843659b0b5" />
+
 
 ## 5 Task Breakdown
 
-<img width="621" height="427" alt="image" src="https://github.com/user-attachments/assets/2a7aa15d-5eae-444f-9bcd-b514cbefb2fe" />
+<img width="836" height="458" alt="image" src="https://github.com/user-attachments/assets/1daceb56-e50f-44eb-87a8-91ce62e5d57a" />
+
 
 ## 6 Methodology & Implementation
 
-<img width="543" height="194" alt="image" src="https://github.com/user-attachments/assets/56ece8dc-ea03-4c3f-879d-ff6b8f163652" />
+<img width="839" height="223" alt="image" src="https://github.com/user-attachments/assets/2b8f8ef0-e615-4296-ab7d-b2cefd611fbc" />
+
 
 ## 7 Results & Deliverables
 
-<img width="505" height="314" alt="image" src="https://github.com/user-attachments/assets/8491bbda-c059-4b1f-9cde-d4a642023623" />
+<img width="842" height="341" alt="image" src="https://github.com/user-attachments/assets/35aa7dfb-4983-41af-ae2e-c7eb5140ee56" />
+
 
 ## 8 Technologies Used
 
-<img width="192" height="123" alt="image" src="https://github.com/user-attachments/assets/795a1eb9-3ca0-49d3-b83d-b78d0ce2ca1a" />
+<img width="838" height="149" alt="image" src="https://github.com/user-attachments/assets/f99dc529-e0c4-4164-b141-9655a2d396ac" />
 
 ## 9 Screenshots
 ### Task 1 – Create and Save initial DataFrames
