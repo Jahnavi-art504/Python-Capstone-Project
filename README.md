@@ -32,22 +32,11 @@
 
 <img width="505" height="314" alt="image" src="https://github.com/user-attachments/assets/8491bbda-c059-4b1f-9cde-d4a642023623" />
 
-## 8 How to Run
-
-<img width="522" height="148" alt="image" src="https://github.com/user-attachments/assets/cd53536d-c2ed-4b83-b40f-b95ee9696f99" />
-
-## 9 Technologies Used
+## 8 Technologies Used
 
 <img width="192" height="123" alt="image" src="https://github.com/user-attachments/assets/795a1eb9-3ca0-49d3-b83d-b78d0ce2ca1a" />
 
-## 10 Screenshots
-### Task 1 – Create CSVs
-### Task 2 – Impute Costs
-### Task 3 – Split Names
-### Task 4 – Merge DataFrames
-### Task 5 – Add Bonus
-### Task 6 – Demote / Prune
-### Task 7 – Prefix Titles
-### Task 8 – Promote Levels
-### Task 9 – Total Cost Summary
-### Task 10 – City Filter Output
+## 9 Screenshots
+
+<img width="206" height="594" alt="image" src="https://github.com/user-attachments/assets/0fef3cbf-8f03-4244-9d80-d19cde951b98" />
+
